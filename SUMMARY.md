@@ -1,6 +1,6 @@
 # Summary
 
-* [*作品简介*](0.md)
+* [*作品简介*](Text/0.md)
 * [前言](README.md)
 * [第1章](Text/1.md)
 * [第2章](Text/2.md)
